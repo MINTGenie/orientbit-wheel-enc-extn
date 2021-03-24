@@ -1,0 +1,23 @@
+{
+    "name": "orientbit wheel enc extn",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "orientbit": "github:mintgenie/pxt-orientbit#v1.0.0",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
